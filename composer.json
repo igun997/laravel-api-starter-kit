@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
-    "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "igun997/laravel-api-starter-kit",
+    "type": "template",
+    "description": "Template Laravel",
+    "keywords": ["template", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
